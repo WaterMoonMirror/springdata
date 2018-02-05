@@ -1,6 +1,6 @@
 package com.wondersgroup.dao;
 
-import com.wondersgroup.Student;
+import com.wondersgroup.domain.Student;
 
 import java.util.List;
 

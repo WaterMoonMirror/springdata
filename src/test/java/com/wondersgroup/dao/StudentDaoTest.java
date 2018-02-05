@@ -1,8 +1,8 @@
 package com.wondersgroup.dao;
 
-import com.wondersgroup.Student;
 import com.wondersgroup.dao.StudentDao;
 import com.wondersgroup.dao.StudentDaoImpl;
+import com.wondersgroup.domain.Student;
 import org.junit.Test;
 
 import java.util.List;
